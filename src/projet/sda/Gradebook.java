@@ -92,8 +92,15 @@ public class Gradebook {
     }
     
     public List<Double> findTempNotes(final String Lesson) {
-        return null;
         
+        
+        
+        
+        
+        
+        
+        
+        return null;
     }
     
     public List<Double> findNotes(final String Lesson) {
