@@ -92,11 +92,7 @@ public class Gradebook {
     }
     
     public List<Double> findTempNotes(final String Lesson) {
-        
-        
-        
-        
-        
+       
         
         
         
